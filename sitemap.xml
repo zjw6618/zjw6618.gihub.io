@@ -11,13 +11,13 @@
   <loc>https://zjw6618.github.io/ueo/</loc>
    <lastmod>2018-05-17</lastmod>
     <changefreq>daily</changefreq>
-   <priority>1.0</priority>
+   <priority>0.8</priority>
  </url>
 
 <url>
   <loc>https://zjw6618.github.io/about/</loc>
    <lastmod>2018-05-17</lastmod>
     <changefreq>daily</changefreq>
-   <priority>1.0</priority>
+   <priority>0.6</priority>
  </url>
  </urlset>
